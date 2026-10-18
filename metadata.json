@@ -1,0 +1,6 @@
+{
+  "name": "HIFAZAT — AI Safety Guide for Girls",
+  "description": "A privacy-first, multilingual AI digital safety guide for girls and women in Pakistan dealing with cyber harassment, blackmail, and online threats.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
