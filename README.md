@@ -173,34 +173,9 @@ The project includes the following API routes:
 | `/api/generate-plan` | Generate a digital safety plan |
 | `/api/generate-complaint` | Generate a complaint draft |
 
-These endpoints are intended to support the application's main digital safety workflows. Request formats and response structures are defined in the backend implementation.
+These endpoints are intended to support the application's main digital safety workflows. Request formats and response structures are defined in the backend implementation
 
-## 🖼️ 9. Product Screenshots
-
-Screenshots of the working application should be added here before final submission.
-
-Recommended screenshots:
-
-1. **Home Page** — HIFAZAT branding and main interface.
-2. **AI Chatbot** — A sample digital safety conversation.
-3. **Multilingual Support** — Language selection or a supported-language response.
-4. **Safety Guidance** — An example of practical next steps.
-5. **Complaint Drafting** — The complaint-generation interface or a sample draft.
-6. **Support Resources** — The available help and reporting information.
-
-Add screenshots to a repository folder such as `screenshots/` and reference them below after uploading the actual image files.
-
-Example:
-
-```markdown
-![HIFAZAT Home Page](screenshots/homepage.png)
-![HIFAZAT Chatbot](screenshots/chatbot.png)
-![HIFAZAT Safety Guidance](screenshots/safety-guidance.png)
-```
-
-Replace these example paths with the exact filenames you upload.
-
-## 👥 10. Team Contributions
+## 👥 9. Team Contributions
 
 **Team Name: Hifazat Squad**
 
@@ -210,7 +185,7 @@ Replace these example paths with the exact filenames you upload.
 | Sadaf Iqbal | Frontend & UI Support | Frontend interface and user experience support |
 | Iza Batool | Research & Content Support | Research, safety-related content, and guidance support |
 
-## 🚀 11. Impact and Innovation
+## 🚀 10. Impact and Innovation
 
 HIFAZAT focuses on making digital safety guidance more accessible to users who may otherwise struggle to understand their options or find appropriate help.
 
@@ -224,7 +199,7 @@ Its key differentiators are:
 
 HIFAZAT aims to contribute to a safer digital environment by helping users understand possible next steps and available support options.
 
-## 🔮 12. Future Improvements
+## 🔮 11. Future Improvements
 
 Potential improvements include:
 
@@ -235,7 +210,7 @@ Potential improvements include:
 - Clearer privacy controls and transparent data-handling documentation.
 - Automated testing, monitoring, and backend reliability improvements.
 
-## ⚠️ 13. Disclaimer
+## ⚠️ 12. Disclaimer
 
 HIFAZAT is an AI-assisted informational tool. It does not replace emergency services, qualified legal advice, professional counseling, or official cybercrime reporting channels.
 
